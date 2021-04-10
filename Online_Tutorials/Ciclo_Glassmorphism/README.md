@@ -23,6 +23,8 @@ Todo funciona, pero Chrome y Firefox no reconocían la propiedad **backdrop-filt
 
 Esta solución es útil en Chrome, no así en Firefox.
 
+- [ ] Debo leer este artículo pues explican en profundidaz el uso de este recurso.
+
 - https://www.youtube.com/watch?v=XeX1vsaufF0
 - https://www.youtube.com/watch?v=-2mkoKVbmGg
 - https://www.youtube.com/watch?v=Q22Tli-D4mw
