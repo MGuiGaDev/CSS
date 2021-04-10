@@ -9,7 +9,7 @@ Contamos con 5 vídeos que practican esta estética:
 
 Todo funciona, pero chrome y firefox no reconocían la propiedad **backdrop-filter**. Buscando en la red he encontrado un artículo de CSS-TRICKS en el que existe una solución para esto:
 
-''
+```
 @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
     .<nombreContenedor> {
     -webkit-backdrop-filter: blur(10px);
@@ -19,7 +19,7 @@ Todo funciona, pero chrome y firefox no reconocían la propiedad **backdrop-filt
     display: none;
     }
 }
-''
+```
 
 - https://www.youtube.com/watch?v=XeX1vsaufF0
 - https://www.youtube.com/watch?v=-2mkoKVbmGg
