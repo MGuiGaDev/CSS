@@ -7,7 +7,7 @@ Contamos con 5 vídeos que practican esta estética:
 
 - https://www.youtube.com/watch?v=hv0rNxr1XXk
 
-Todo funciona, pero Chrome y Firefox no reconocían la propiedad **backdrop-filter**. Buscando en la red he encontrado un artículo de **[CSS-TRICKS]**(https://css-tricks.com/almanac/properties/b/backdrop-filter/) en el que existe una solución para esto:
+Todo funciona, pero Chrome y Firefox no reconocían la propiedad **backdrop-filter**. Buscando en la red he encontrado un artículo de [CSS-TRICKS](https://css-tricks.com/almanac/properties/b/backdrop-filter/) en el que existe una solución para esto:
 
 ```
 @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
