@@ -1,0 +1,46 @@
+p {
+    text-align: justify;
+    padding: 5px;
+}
+
+header {
+    border: 2px solid white;
+    padding: 5px;
+    background: rgb(27, 35, 61);
+}
+
+.tarjeta {
+    background: rgb(27, 35, 61);
+}
+.article {
+    background: rgb(243, 236, 236);
+}
+.tarjetaB{
+    background: rgb(243, 236, 236);
+}
+
+h1, h2, h3, h4 {
+    padding: 5px;
+    text-align: start;
+}
+
+aside {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+main {
+    border: 2px solid white;
+    background: rgb(243, 236, 236);
+}
+
+article {
+    border: 2px solid white;
+    padding: 10px;
+}
+
+footer {
+    border: 2px solid white;
+    padding: 5px;
+    background: rgb(39, 200, 101);
+}
