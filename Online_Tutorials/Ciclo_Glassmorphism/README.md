@@ -11,6 +11,9 @@ Contamos con 5 vídeos que practican esta estética:
 
 Sin duda, el primero que llama la atención es el movimiento de contenido dentro de un contenedor cuando pasamos el cursor sobre este. La aparición del contenido asociada al moviemiento del cursor es muy llamativa:
 
+![CardHoverEffect](https://user-images.githubusercontent.com/82242888/114302980-ecfd6480-9acb-11eb-8f22-4ff553172135.gif)
+
+
 ```
 
 .container .card .content {
