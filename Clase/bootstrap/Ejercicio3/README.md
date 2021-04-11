@@ -1,6 +1,6 @@
 ## Imágenes
 
-# Esquema para realizar el ejercicio:
+# Esquema propio para realizar el ejercicio:
 
 ![image](https://user-images.githubusercontent.com/82242888/114321311-881d2b00-9b1a-11eb-97ce-43e0d4416cb6.png)
 
