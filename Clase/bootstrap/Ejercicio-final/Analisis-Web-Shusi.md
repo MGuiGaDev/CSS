@@ -37,3 +37,40 @@ En este documento presentaremos desmenuzados los elementos que contiene esta web
     <a href="#special-items" class="btn header-link primary-color"><i class="fas fa-arrow-down"></i></a>
 </header>
 ```
+## Nav
+![image](https://user-images.githubusercontent.com/82242888/114764171-e5f08380-9d63-11eb-89ee-730da54ac3f7.png)
+```
+ <nav class="navbar navbar-expand-lg">
+    <a class="navbar-brand text-uppercase primary-color" href="#">sushi monster</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
+    <div class="toggler-btn">
+      <div class="bar bar1"></div>
+      <div class="bar bar2"></div>
+      <div class="bar bar3"></div>
+    </div>
+    </button>    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link text-capitalize" href="#special-items">special items</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-capitalize" href="#menu">menu</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-capitalize" href="#about">about</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-capitalize" href="#reviews">reviews</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-capitalize" href="#team">team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-capitalize" href="#contact">contact</a>
+        </li>      </ul>
+      <form class="form-inline d-none d-lg-block mr-5">
+        <button class="btn nav-btn text-capitalize" type="button">order online</button>      </form>
+    </div>
+  </nav>
+```
+
