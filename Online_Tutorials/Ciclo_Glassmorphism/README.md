@@ -53,8 +53,20 @@ Esta solución es útil en Chrome, no así en Firefox.
 - [ ] Debo leer este artículo pues explican en profundidaz el uso de este recurso.
 
 
+## 2. Flip Debit Card 
 
 - https://www.youtube.com/watch?v=XeX1vsaufF0
+
+
+![FlipDebitCard](https://user-images.githubusercontent.com/82242888/115343965-ef874a80-a1ac-11eb-8a95-06cfb57cc019.gif)
+
+
+
+
+## 3. Glass Ussing Backdrop
+
+![GlassUssingBackdrop](https://user-images.githubusercontent.com/82242888/115343843-c6ff5080-a1ac-11eb-987a-62e58f8fd8a9.gif)![Uploading FlipDebitCard.gif…]()
+
 - https://www.youtube.com/watch?v=-2mkoKVbmGg
 - https://www.youtube.com/watch?v=Q22Tli-D4mw
 - https://www.youtube.com/watch?v=YRAoM4-Eb4A
