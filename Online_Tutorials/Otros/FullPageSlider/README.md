@@ -2,6 +2,9 @@
 
 De esta práctica, debo destacar un elemento de valor: el uso de JavaScript para el funcionamiento del Slide.
 
+![FullPageSlide](https://user-images.githubusercontent.com/82242888/115339803-c4e5c380-a1a5-11eb-82d4-b6f31f701d22.gif)
+
+
 Contamos con 4 imágenes y 4 cajas de descripción que funcionan al unísono con el slide. Veremos el ejemplo con el código usado para las imágenes y los controles del slide:
 
 ## HTML:
