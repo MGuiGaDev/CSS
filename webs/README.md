@@ -19,3 +19,7 @@ Te permite acceder a través de tu cuenta de GitHub. Aquí tenemos un ejemplo de
 - https://ray.so/
 - https://codeimg.io/
 
+
+# Para diseño
+
+- https://www.figma.com/
