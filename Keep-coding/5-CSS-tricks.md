@@ -1,5 +1,7 @@
 Trick 0ne
 
+Artículo sobre las opciones de background-image, teniendo en cuenta background_blend-mode.
+
 ```
 body {
 background-image: url('../imagenes/hookah_grupo.jpg');
