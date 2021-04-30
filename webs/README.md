@@ -23,3 +23,26 @@ Te permite acceder a través de tu cuenta de GitHub. Aquí tenemos un ejemplo de
 # Para diseño
 
 - https://www.figma.com/
+
+## [COOLORS.COM](https://coolors.co/)
+
+![image](https://user-images.githubusercontent.com/82242888/116683410-daca6400-a9af-11eb-8c08-8e6f9055c0cc.png)
+
+## [WBAIMG.COM](webaim.org)
+
+![image](https://user-images.githubusercontent.com/82242888/116683538-0f3e2000-a9b0-11eb-841d-2818b88f1e43.png)
+
+## [UICOACH.IO](https://uicoach.io/) 
+![image](https://user-images.githubusercontent.com/82242888/116683857-75c33e00-a9b0-11eb-8fff-577dd517af04.png)
+
+## [WEBFLOW.COM](webflow.com)
+![image](https://user-images.githubusercontent.com/82242888/116684076-c6d33200-a9b0-11eb-80d3-4375a1e576eb.png)
+
+## [UNIVERSITY.WEBFLOW.COM](https://university.webflow.com/lesson/symbols?utm_source=symbol-fields-learn-more#define-override-fields)
+![image](https://user-images.githubusercontent.com/82242888/116683986-a3a88280-a9b0-11eb-8e57-098a6d4a58c6.png)
+
+## [UXCEL.COM](https://uxcel.com/)
+
+
+https://user-images.githubusercontent.com/82242888/116683254-9dfe6d00-a9af-11eb-840c-d62bdb1a3acf.mp4
+
